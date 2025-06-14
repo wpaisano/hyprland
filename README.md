@@ -77,5 +77,6 @@ git init
 
 ---
 
-## Autor
-Configuração mantida por **Walace**, Analista de Segurança da Informação | Especialista em Linux & Hyprland
+## 📝 Créditos e inspiração
+
+Esta configuração foi inicialmente inspirada e adaptada a partir do conteúdo do canal [RB Games Linux](https://www.youtube.com/@RBGameslinux).
