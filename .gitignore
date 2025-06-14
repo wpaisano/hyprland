@@ -1,0 +1,41 @@
+# ~/.config/hypr/.gitignore
+
+# Arquivos temporários e de cache
+*.swp
+*.bak
+*.tmp
+*~
+
+# Logs e cache locais
+.cache/
+waybar/cache.json
+
+# Arquivos de thumbs ou screenshots temporários
+*.thumb.png
+*.thumb.jpg
+*.log
+
+# Capturas geradas dinamicamente
+Pictures/Screenshots/
+
+# Diretórios e arquivos comuns a editores
+.vscode/
+.idea/
+.DS_Store
+
+# Execução temporária de scripts
+*.pid
+*.lock
+
+# Arquivos de teste e saída de comando
+/tmp/
+*.out
+
+# Backups manuais
+*.old
+*.orig
+
+# Arquivos de build (caso existam automações)
+build/
+output/
+
